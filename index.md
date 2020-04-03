@@ -23,6 +23,7 @@
 
 ↗ [iOS 탈옥 Substrate란?](https://powr.tistory.com/7)
 
+↗ [iOS 탈옥 감지 우회 가이드](https://powr.tistory.com/19)
 
 You can use the  to maintain and preview the content for your website in Markdown files.
 
