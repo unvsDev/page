@@ -11,6 +11,11 @@
 
 ↗ [iOS 13 탈옥 트윅 모음 2.Light](https://www.clien.net/service/board/cm_iphonien/14792685)
 
+## 리포
+↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
+
+↗ [iOS 13 탈옥 필수 리포 총정리](https://powr.tistory.com/11)
+
 You can use the  to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
