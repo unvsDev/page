@@ -13,7 +13,7 @@
 
 ↗ [Can I Jailbreak?](http://canijailbreak.com/)
 
-↗ 사이닝 확인 [11 Pro](https://ipsw.me/iPhone12,3) [Xs](https://ipsw.me/iPhone11,2) [8 Plus](https://ipsw.me/iPhone10,2)
+↗ 사이닝 확인 [11 Pro](https://ipsw.me/iPhone12,3)  |  [Xs](https://ipsw.me/iPhone11,2)  |  [8 Plus](https://ipsw.me/iPhone10,2)
 
 ## 트윅
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
