@@ -1,3 +1,6 @@
+## 탈옥이란
+↗ [iOS 탈옥이란?](https://powr.tistory.com/4)
+
 ## 탈옥 가이드
 ↗ [iOS 10 ~ 13 탈옥툴 & 탈옥 가이드](https://www.clien.net/service/board/cm_iphonien/14706175)
 
