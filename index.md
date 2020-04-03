@@ -16,6 +16,14 @@
 
 ↗ [iOS 13 탈옥 필수 리포 총정리](https://powr.tistory.com/11)
 
+## 탈옥 지식
+↗ [iOS 탈옥 시디아란?](https://powr.tistory.com/8)
+
+↗ [iOS 탈옥 실리오란?](https://powr.tistory.com/9)
+
+↗ [iOS 탈옥 Substrate란?](https://powr.tistory.com/7)
+
+
 You can use the  to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
