@@ -4,6 +4,17 @@
 ## 탈옥 가이드
 ↗ [iOS 10 ~ 13 탈옥툴 & 탈옥 가이드](https://www.clien.net/service/board/cm_iphonien/14706175)
 
+## 각종 사이트
+↗ [체크레인 바로가기](https://checkra.in/)
+
+↗ [언커버 바로가기](https://unc0ver.dev/)
+
+↗ [pwn20wnd 트위터 (탈옥 소식)](https://twitter.com/Pwn20wnd)
+
+↗ [Can I Jailbreak?](http://canijailbreak.com/)
+
+↗ [사이닝 확인(아이폰 11 Pro)](https://ipsw.me/iPhone12,3)
+
 ## 트윅
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
 
