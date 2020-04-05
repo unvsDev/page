@@ -24,6 +24,8 @@
 
 ↗ [iOS 13 탈옥 트윅 모음 2.Light](https://www.clien.net/service/board/cm_iphonien/14792685)
 
+↗ [iOS 13 탈옥 트윅 모음 3.Power](https://www.clien.net/service/board/cm_iphonien/14801291)
+
 ## 리포
 ↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
 
