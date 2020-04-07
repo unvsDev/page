@@ -23,6 +23,7 @@
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
 
 # UNIVERSE 트윅 가이드
+![universetweak](https://user-images.githubusercontent.com/63099769/78652992-73052f00-78fd-11ea-90bf-0d54fc032516.png)
 
 ↗ [Essentials](https://www.clien.net/service/board/cm_iphonien/14678964)
 
