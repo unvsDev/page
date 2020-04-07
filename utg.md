@@ -1,3 +1,3 @@
 [← 이전](https://xkfdhr.github.io/page)
 
-[![newTitleUTG](https://user-images.githubusercontent.com/63099769/78664524-2c203500-790f-11ea-9cac-9184330629f9.png)](https://www.clien.net/service/board/cm_iphonien/14678964)
+[![new2TitleUTG](https://user-images.githubusercontent.com/63099769/78664820-be283d80-790f-11ea-9bd2-3945325b2a1a.png)](https://www.clien.net/service/board/cm_iphonien/14678964)
