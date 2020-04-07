@@ -25,6 +25,7 @@
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
 
 # UNIVERSE 트윅 가이드
+↗ [바로가기](https://xkfdhr.github.io/page/utg)
 
 ## 리포
 ↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
