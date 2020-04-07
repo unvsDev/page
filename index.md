@@ -1,10 +1,11 @@
 ![xkfdhr_github_biglogo](https://user-images.githubusercontent.com/63099769/78632902-29a3e800-78db-11ea-92e1-f8177902c73e.png)
 
-## 탈옥이란
+# 탈옥이란
 ↗ [iOS 탈옥이란?](https://powr.tistory.com/4)
 
-## 탈옥 가이드
-↗ [iOS 10 ~ 13 탈옥툴 & 탈옥 가이드](https://www.clien.net/service/board/cm_iphonien/14706175)
+# UNIVERSE 트윅 가이드 + JB 가이드
+↗ [바로가기](https://xkfdhr.github.io/page/utg)
+
 
 ## 각종 사이트
 ↗ [체크레인 바로가기](https://checkra.in/)
@@ -23,9 +24,6 @@
 
 ## 트윅
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
-
-# UNIVERSE 트윅 가이드
-↗ [바로가기](https://xkfdhr.github.io/page/utg)
 
 ## 리포
 ↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
