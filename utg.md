@@ -3,6 +3,8 @@
 ## UNIVERSE iOS 13 트윅 가이드
 ![universetweak](https://user-images.githubusercontent.com/63099769/78652992-73052f00-78fd-11ea-90bf-0d54fc032516.png)
 
+[![goto](https://user-images.githubusercontent.com/63099769/78664122-57eeeb00-790e-11ea-9cc5-e4f02ef2347b.png)](https://www.clien.net/service/board/cm_iphonien/14678964)
+
 ↗ [Essentials](https://www.clien.net/service/board/cm_iphonien/14678964)
 
 ↗ [Power](https://www.clien.net/service/board/cm_iphonien/14801291)
