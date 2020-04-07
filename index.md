@@ -3,7 +3,7 @@
 # 탈옥이란
 ↗ [iOS 탈옥이란?](https://powr.tistory.com/4)
 
-# UNIVERSE 트윅 가이드 + JB 가이드
+# UNIVERSE 트윅 가이드
 ↗ [바로가기](https://xkfdhr.github.io/page/utg)
 
 
