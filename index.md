@@ -13,6 +13,8 @@
 
 ↗ [pwn20wnd 트위터 (탈옥 소식)](https://twitter.com/Pwn20wnd)
 
+↗ [Coolstar 트위터 (탈옥 소식)](https://twitter.com/cstar_ow)
+
 ↗ [Can I Jailbreak?](http://canijailbreak.com/)
 
 ↗ 사이닝 확인
@@ -23,15 +25,6 @@
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
 
 # UNIVERSE 트윅 가이드
-![universetweak](https://user-images.githubusercontent.com/63099769/78652992-73052f00-78fd-11ea-90bf-0d54fc032516.png)
-
-↗ [Essentials](https://www.clien.net/service/board/cm_iphonien/14678964)
-
-↗ [Power](https://www.clien.net/service/board/cm_iphonien/14801291)
-
-↗ [Magic Light](https://www.clien.net/service/board/cm_iphonien/14792685)
-
-↗ [Magic Dark](https://www.clien.net/service/board/cm_iphonien/14806006)
 
 ## 리포
 ↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
