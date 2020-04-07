@@ -22,11 +22,15 @@
 ## 트윅
 ↗ [iOS 탈옥 트윅이란?](https://powr.tistory.com/5)
 
-↗ [iOS 13 탈옥 트윅 모음 1.Essentials](https://www.clien.net/service/board/cm_iphonien/14678964)
+# UNIVERSE 트윅 가이드
 
-↗ [iOS 13 탈옥 트윅 모음 2.Light](https://www.clien.net/service/board/cm_iphonien/14792685)
+↗ [Essentials](https://www.clien.net/service/board/cm_iphonien/14678964)
 
-↗ [iOS 13 탈옥 트윅 모음 3.Power](https://www.clien.net/service/board/cm_iphonien/14801291)
+↗ [Power](https://www.clien.net/service/board/cm_iphonien/14801291)
+
+↗ [Magic Light](https://www.clien.net/service/board/cm_iphonien/14792685)
+
+↗ [Magic Dark](https://www.clien.net/service/board/cm_iphonien/14806006)
 
 ## 리포
 ↗ [iOS 탈옥 리포란?](https://powr.tistory.com/6)
