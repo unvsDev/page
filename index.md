@@ -1,4 +1,4 @@
-![xkfdhr_github_mainscreen](https://user-images.githubusercontent.com/63099769/78632594-64595080-78da-11ea-818d-0f92fe399173.png)
+![xkfdhr_github_biglogo](https://user-images.githubusercontent.com/63099769/78632902-29a3e800-78db-11ea-92e1-f8177902c73e.png)
 
 ## 탈옥이란
 ↗ [iOS 탈옥이란?](https://powr.tistory.com/4)
